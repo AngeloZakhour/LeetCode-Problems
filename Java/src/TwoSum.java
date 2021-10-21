@@ -1,4 +1,4 @@
-//Successful
+package com.company;//Successful
 
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {

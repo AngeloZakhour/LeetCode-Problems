@@ -1,3 +1,5 @@
+package com.company;
+
 //SUCCESSFUL
 public class ZigZagConversion {
 	public static String convert(String s, int numRows) {

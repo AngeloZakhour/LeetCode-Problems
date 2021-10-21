@@ -1,3 +1,5 @@
+package com.company;
+
 //SUCCESSFUL
 public class ReverseInteger {
 

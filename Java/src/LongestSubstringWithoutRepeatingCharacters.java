@@ -1,4 +1,4 @@
-//SUCCESSFUL
+package com.company;//SUCCESSFUL
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {

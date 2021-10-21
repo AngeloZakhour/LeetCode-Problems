@@ -1,4 +1,4 @@
-//Successful
+package com.company;//Successful
 //Had to look at solution
 
 import java.util.ArrayList;

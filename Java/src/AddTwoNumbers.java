@@ -1,4 +1,4 @@
-//SUCCESSFUL
+package com.company;//SUCCESSFUL
 /**
  * Definition for singly-linked list.
  * public class ListNode {
